@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DVirignia&#39;s dream</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-12-17T15:17:13.665Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Dｖ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title> D&#39;s crew</title>
+    <link href="http://example.com/2023/12/17/D-s-crew/"/>
+    <id>http://example.com/2023/12/17/D-s-crew/</id>
+    <published>2023-12-17T15:13:21.000Z</published>
+    <updated>2023-12-17T15:17:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>吴世杰 ‘s 周报</p><p><a href="https://wsj-iwakiwjlag.github.io/2023/12/17/16%E5%91%A8%E5%91%A8%E6%8A%A5/">https://wsj-iwakiwjlag.github.io/2023/12/17/16%E5%91%A8%E5%91%A8%E6%8A%A5/</a></p><p>江修羡 ‘s 周报</p><p><img src="C:\Users\惠普\AppData\Roaming\Typora\typora-user-images\1702826137259.png" alt="1702826137259"></p><p>季翔羽’s 周报</p><p><img src="C:\Users\惠普\AppData\Roaming\Typora\typora-user-images\1702826193126.png" alt="1702826193126"></p><p>王娟’s 周报</p><p><a href="https://opwang666.github.io/2023/12/17/12-17%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/">https://opwang666.github.io/2023/12/17/12-17%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;吴世杰 ‘s 周报&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wsj-iwakiwjlag.github.io/2023/12/17/16%E5%91%A8%E5%91%A8%E6%8A%A5/&quot;&gt;https://wsj-iwakiwjlag.github.io/20</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/12/17/2023%E5%B9%B412%E6%9C%8811%E6%97%A5-2023%E5%B9%B412%E6%9C%8817%E6%97%A5%20D/"/>
+    <id>http://example.com/2023/12/17/2023%E5%B9%B412%E6%9C%8811%E6%97%A5-2023%E5%B9%B412%E6%9C%8817%E6%97%A5%20D/</id>
+    <published>2023-12-17T15:04:38.373Z</published>
+    <updated>2023-12-17T15:09:48.418Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2023年12月11日-2023年12月17日"><a href="#2023年12月11日-2023年12月17日" class="headerlink" title="2023年12月11日-2023年12月17日"></a>2023年12月11日-2023年12月17日</h2><blockquote><p>D’s 学习周报</p></blockquote><h3 id="本周学习大纲"><a href="#本周学习大纲" class="headerlink" title="本周学习大纲"></a>本周学习大纲</h3><ol><li><h4 id="与代码相关的："><a href="#与代码相关的：" class="headerlink" title="与代码相关的："></a>与代码相关的：</h4><ol><li>搭建github+hexo博客</li></ol></li><li><h4 id="与代码无关的："><a href="#与代码无关的：" class="headerlink" title="与代码无关的："></a>与代码无关的：</h4><ol><li>六级冲刺，课堂作业</li></ol></li></ol><h3 id="本周学习日历"><a href="#本周学习日历" class="headerlink" title="本周学习日历"></a>本周学习日历</h3><table><thead><tr><th>日历</th><th>学习内容</th><th>其他</th></tr></thead><tbody><tr><td>星期一</td><td>github+hexo博客&#x2F;nodejs下载;git</td><td></td></tr><tr><td>星期二</td><td>github+hexo博客&#x2F;安装hexo</td><td></td></tr><tr><td>星期三</td><td>github+hexo博客&#x2F;GitHub创建个人仓库</td><td></td></tr><tr><td>星期四</td><td>github+hexo博客&#x2F;生成SSH添加到GitHub</td><td></td></tr><tr><td>星期五</td><td>github+hexo博客&#x2F;将hexo部署到GitHub</td><td></td></tr><tr><td>星期六</td><td>六级试题,六级考试</td><td>个人提升</td></tr><tr><td>星期天</td><td>学校作业:数据结构图论;学习通考试</td><td>学校学习</td></tr></tbody></table><h3 id="本周学习内容-及-收获"><a href="#本周学习内容-及-收获" class="headerlink" title="本周学习内容 及 收获"></a>本周学习内容 及 收获</h3><h4 id="搭建github-hexo博客"><a href="#搭建github-hexo博客" class="headerlink" title="搭建github+hexo博客"></a>搭建github+hexo博客</h4><h5 id="笔记："><a href="#笔记：" class="headerlink" title="笔记："></a>笔记：</h5><p>本地</p><h5 id="完成状态："><a href="#完成状态：" class="headerlink" title="完成状态："></a>完成状态：</h5><p>已完成本周任务。</p><h5 id="学习收获"><a href="#学习收获" class="headerlink" title="学习收获"></a>学习收获</h5><p>印象比较深的是对非法输入的判断和拦截和随机生成卡号。另外，在做项目中我遇到了一个异常（比如空指针报错），我如何解决了他（自己思考&#x2F;问组长&#x2F;问老师&#x2F;百度搜索），原因是因为我并没有给此变量赋值就调用了它的方法。</p><p>其他两个学习内容同理</p><h3 id="下周学习大纲"><a href="#下周学习大纲" class="headerlink" title="下周学习大纲"></a>下周学习大纲</h3><ol><li><strong>数据结构复习</strong></li><li><strong>复习期末考试</strong>：复习物理&#x2F;英语</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2023年12月11日-2023年12月17日&quot;&gt;&lt;a href=&quot;#2023年12月11日-2023年12月17日&quot; class=&quot;headerlink&quot; title=&quot;2023年12月11日-2023年12月17日&quot;&gt;&lt;/a&gt;2023年12月11日-2023年</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>D&#39;s first blog</title>
+    <link href="http://example.com/2023/12/17/D-s-first-blog/"/>
+    <id>http://example.com/2023/12/17/D-s-first-blog/</id>
+    <published>2023-12-17T14:43:56.000Z</published>
+    <updated>2023-12-17T14:43:56.040Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/12/14/hello-world/"/>
+    <id>http://example.com/2023/12/14/hello-world/</id>
+    <published>2023-12-14T02:30:35.214Z</published>
+    <updated>2023-12-14T02:30:35.214Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
