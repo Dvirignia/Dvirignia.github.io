@@ -1,3 +1,5 @@
+http://example.com/2023/12/24/my1224/
+http://example.com/2023/12/24/1224/
 http://example.com/2023/12/17/D-s-crew/
 http://example.com/2023/12/17/2023%E5%B9%B412%E6%9C%8811%E6%97%A5-2023%E5%B9%B412%E6%9C%8817%E6%97%A5%20D/
 http://example.com/2023/12/17/D-s-first-blog/
